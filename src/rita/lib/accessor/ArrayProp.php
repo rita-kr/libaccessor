@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace kim\present\lib\accessor;
+namespace rita\lib\accessor;
 
 class ArrayProp implements IAccessor, \ArrayAccess, \Countable, \IteratorAggregate{
     /** @var Accessor */

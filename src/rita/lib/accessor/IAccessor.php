@@ -22,9 +22,8 @@
 
 declare(strict_types=1);
 
-namespace kim\present\lib\accessor;
+namespace rita\lib\accessor;
 
-use pocketmine\plugin\PluginBase;
-
-class Loader extends PluginBase{
+interface IAccessor{
+    public function getOrigin();
 }

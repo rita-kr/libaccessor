@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace kim\present\lib\accessor;
+namespace rita\lib\accessor;
 
 /**
  * Creates an Accessor instance that wraps the given object or class name
