@@ -1,5 +1,5 @@
 ---
-name: Accessor
+name: libaccessor
 main: rita\lib\accessor\Loader
 version: 1.2.0
 api: [ 4.0.0 ]
